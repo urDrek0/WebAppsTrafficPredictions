@@ -171,5 +171,3 @@ Otomatis browser akan terbuka di alamat:
 **Dibuat untuk Tugas Akhir / Proyek Data Science.**
 *Feel free to contribute or give a star\! ⭐*
 
-```
-```
