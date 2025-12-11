@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+pandas
+numpy
+xgboost
+joblib
+streamlit
+matplotlib
+seaborn
+requests
+scikit-learn
+scikit-fuzzy
+networkx
+scipy
+packaging
+lightgbm
