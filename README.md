@@ -9,7 +9,7 @@ Sistem prediksi kemacetan lalu lintas cerdas yang menggunakan **Machine Learning
 
 Proyek ini dibangun dari tahap eksplorasi data (EDA), pelatihan model, hingga deployment menggunakan arsitektur *Client-Server* (FastAPI sebagai Backend & Streamlit sebagai Frontend). Atau dapat diakses melalui link berikut.
 
-```bash
+```link
 https://trafficpredictionsdatsa2025.streamlit.app/
 ```
 
