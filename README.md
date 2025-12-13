@@ -7,7 +7,11 @@
 
 Sistem prediksi kemacetan lalu lintas cerdas yang menggunakan **Machine Learning** untuk memprediksi *Flow* (Arus) dan *Occupancy* (Okupansi) jalan, serta dilengkapi dengan **Fuzzy Logic** untuk mengklasifikasikan status kemacetan (Lancar, Padat Merayap, Macet).
 
-Proyek ini dibangun dari tahap eksplorasi data (EDA), pelatihan model, hingga deployment menggunakan arsitektur *Client-Server* (FastAPI sebagai Backend & Streamlit sebagai Frontend).
+Proyek ini dibangun dari tahap eksplorasi data (EDA), pelatihan model, hingga deployment menggunakan arsitektur *Client-Server* (FastAPI sebagai Backend & Streamlit sebagai Frontend). Atau dapat diakses melalui link berikut.
+
+```bash
+https://trafficpredictionsdatsa2025.streamlit.app/
+```
 
 ---
 
